@@ -1,5 +1,6 @@
 # ALU-with-seven-segment-display
 Arithmetic logic unit with a seven-segment display implemented using logisim
+
 This was part of Logic subject (2019)
 
 ![alt text](https://github.com/MahmoudF98/ALU-with-seven-segment-display/blob/main/FinalCircuitSelect.jpg)
